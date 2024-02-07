@@ -8,7 +8,7 @@
 git clone https://github.com/TheHelmsman/input_custom_rule_antd.git
 ```
 
-2. Check install node modules:
+2. Install node modules:
 
 ```bash
 yarn install
